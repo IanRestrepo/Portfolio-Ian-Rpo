@@ -3,7 +3,7 @@
     "name": "Ian Restrepo",
     "label": "Mid-Senior Front-End Developer",
     "image": "https://avatars.githubusercontent.com/u/91353384?v=4",
-    "email": "john.doe@example.com",
+    "email": "ianrpoecomco@gmail.com",
     "phone": "+57 319 321 9450",
     "url": "https://IanRestrepo.com",
     "summary": "Mid-Senior Front-End Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting. ( +9 Years of Experience )",
@@ -35,8 +35,9 @@
   },
   "work": [
     {
+      "isOnInterview":  true,
       "name": "Lionwow",
-      "position": "Mid-Senior Front-End Developer",
+      "position": "Mid-Sr Front-End Developer",
       "location_type": "Hybrid",
       "location": "Pereira, Colombia",
       "url": "https://www.lionwow.co/",

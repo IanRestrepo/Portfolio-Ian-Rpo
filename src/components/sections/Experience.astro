@@ -1,5 +1,6 @@
 ---
 import Section from "../Section.astro"
+import Badge from "../Badge.astro"
 import { work } from "@cv"
 
 import HTML from "@/icons/html.astro"
@@ -35,10 +36,12 @@ const SKILLS_ICONS: Record<string, any> = {
   Kotlin,
   Flutter,
 }
+
+let isOnInterview: boolean;
 ---
 <Section className={Astro.props.className} title="Experience">
   <ul class="flex flex-col">
-    {work.map(({ name, startDate, endDate, position, summary, responsibilities, achievements, url, skills, location, location_type }) => {
+    {work.map(({ name, startDate, endDate, position, summary, responsibilities, achievements, url, skills, location, location_type, isOnInterview }) => {
       const startYear = new Date(startDate).getFullYear()
       const endYear = endDate != null ? new Date(endDate).getFullYear() : "Present"
 
@@ -54,9 +57,9 @@ const SKILLS_ICONS: Record<string, any> = {
                 <div class="inline-flex items-center text-lg print:text-base leading-tight group/link focus-visible:text-amber-500" aria-label="{position} - {company}">
                   <span>{position} @</span>
                   {url ? (
-                    <a class="text-skin-hue" href={url} title={`Ver ${name}`} target="_blank">{name}</a>
+                    <a class="text-skin-hue" href={url} title={`Ver ${name}`} target="_blank">{name} <span> { isOnInterview ? <Badge content="In interview right now"/> : null } </span> </a>
                   ) : (
-                    <span>{name}</span>
+                    <span>{name}</span> 
                   )}
                   {url &&
                     <span class="inline-block text-skin-hue print:[&>svg]:hidden">

@@ -1,0 +1,24 @@
+---
+import LiveInterView from '@/icons/LiveInterview.astro';
+
+interface Props {
+    content: string;
+}
+
+const { content } = Astro.props;
+
+const colors = {
+    colors: {
+        'green': 'inline-flex items-center rounded-md bg-green-950 px-2 py-1 text-xs font-medium text-lime-400 ring-1 ring-inset ring-lime-400/20 ',
+        'red': 'inline-flex items-center rounded-md bg-red-50 px-2 py-1 text-xs font-medium text-red-700 ring-1 ring-inset ring-red-600/20',
+        'yellow': 'inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-800 ring-1 ring-inset ring-yellow-600/20',
+        'blue': 'inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/20',
+        'indigo': 'inline-flex items-center rounded-md bg-indigo-50 px-2 py-1 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-700/20',
+        'purple': 'inline-flex items-center rounded-md bg-purple-50 px-2 py-1 text-xs font-medium text-purple-700 ring-1 ring-inset ring-purple-700/20',
+        'pink': 'inline-flex items-center rounded-md bg-pink-50 px-2 py-1 text-xs font-medium text-pink-700 ring-1 ring-inset ring-pink-700/20',
+    }
+}
+---
+
+
+<span class={colors.colors.green} >{content}<span class="px-2"><LiveInterView/><span/></span>
