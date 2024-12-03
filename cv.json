@@ -324,7 +324,8 @@
         "Built with Astro and TailwindCSS",
         "Includes a Print CV feature"
       ],
-      "url": "https://ianrpo.dev"
+      "url": "https://ianrpo.dev",
+      "github": ""
     },
     {
       "name": "Araya Moya Inversiones Website",
@@ -334,7 +335,8 @@
         "Built with React and TailwindCSS",
         "Responsive design"
       ],
-      "url": "https://arayamoyainversiones.vercel.app/"
+      "url": "https://arayamoyainversiones.vercel.app/",
+      "github": ""
     },
     {
       "name": "University OOP",
@@ -344,7 +346,8 @@
         "Built with HTML, CSS, JavaScript and TailwindCSS Only",
         "User authentication and CRUD operations"
       ],
-      "url": "https://university-oop.vercel.app/"
+      "url": "https://university-oop.vercel.app/",
+      "github": ""
     },
     {
       "name": "Notion Clone",
@@ -354,7 +357,8 @@
         "Built with Astro, Turso, AstroDB and TailwindCSS",
         "Offline support"
       ],
-      "url": "localhost:4321"
+      "url": "localhost:4321",
+      "github": ""
     }
   ]
 }
