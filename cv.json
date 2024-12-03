@@ -18,18 +18,18 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "Ian Restrepo",
+        "url": "https://www.linkedin.com/in/ianrestrepo/"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "ianrpoecom",
+        "url": "https://x.com/ianrpoecom"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "Ian Restrepo",
+        "url": "https://github.com/IanRestrepo"
       }
     ]
   },
@@ -43,7 +43,7 @@
       "url": "https://www.lionwow.co/",
       "startDate": "2024-12-05",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Developing and maintaining web applications using JavaScript, Astro, TailwindCSS. Collaborating with the team to implement new features and fix bugs.",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
@@ -53,65 +53,77 @@
         "Participated in code reviews and contributed to improving coding standards within the team."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Developing and maintaining web applications using JavaScript, Astro, TailwindCSS. Collaborating with the team to implement new features and fix bugs."
       ],
       "skills": [
+        "Astro",
         "React",
+        "Git",
+        "GitHub",
         "Tailwind",
-        "GitHub"
+        "HTML",
+        "Magic UI"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
+      "name": "M&C Games Studio",
+      "position": "Head Senior Software Engineer",
+      "location_type": "Remote",
+      "location": "Medellin, Colombia",
+      "url": "https://mycgamestudios.vercel.app/",
       "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "endDate": "2024-06-01",
+      "summary": "Heading in the development and maintenance of software applications and in-game systems using Luau, Roact, MVC, BridgNet. Collaborating with cross-functional teams to ensure quality and timely delivery of updates for +30M Monthly users.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Contributed to a major project that streamlined internal workflows, improving efficiency & Optimization by 60%"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
+        "Developed and maintained in-game services using Luau & BridgNet.",
+        "Worked closely with developers to integrate user-facing elements with server-side logic.",
         "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Successfully implemented a new in-game Plates system that increased user engagement by 40%."
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
+        "Lua",
+        "Roact",
+        "BridgNet",
+        "Discord",
+        "GitHub",
         "Git"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "Roblox DevRel",
+      "position": "Community Ambassor",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "location": "Medellin, Colombia",
+      "url": "https://devforum.roblox.com/",
+      "startDate": "2018-06-01",
+      "endDate": "2023-12-01",
+      "summary": "Ambassador for the Roblox Developer Community. Contributed to the creation of various official Roblox projects and events, fostering collaboration and innovation within the platform.",
       "highlights": [
         "Completed several client projects successfully"
       ],
       "skills": [
         "HTML",
-        "CSS"
+        "CSS",
+        "JavaScript",
+        "Lua",
+        "Luau",
+        "Roblox Studio",
+        "Discord"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
+      "organization": "Roblox Developer Forum & Freelancer",
+      "position": "Community Ambassor",
+      "url": "https://devforum.roblox.com/",
+      "startDate": "2018-01-01",
+      "endDate": "2023-12-31",
       "summary": "Helped organize coding workshops and mentored new members.",
       "highlights": [
         "Awarded 'Volunteer of the Month'"
@@ -120,38 +132,25 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "Tiffin University",
+      "url": "https://tiffin.edu",
       "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "studyType": "Degree",
+      "startDate": "2024-09-01",
+      "endDate": "2026-05-01",
+      "score": "5.0",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
+      "institution": "Corporación Instituto de Administración y Finanzas",
+      "url": "https://ciaf.edu.co",
       "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
       "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
+      "startDate": "2022-01-01",
+      "endDate": "2024-12-01",
       "score": "3.7",
       "courses": [
         "IT101 - Networking Fundamentals",
@@ -161,10 +160,16 @@
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
+      "name": "JavaScript Master Certification",
       "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "issuer": "CoderHouse",
+      "url": "https://coderhouse.com"
+    },
+    {
+      "name": "Front-End Development Certification",
+      "date": "2022-05-01",
+      "issuer": "Platzi",
+      "url": "https://platzi.com"
     }
   ],
   "skills": [
@@ -173,16 +178,8 @@
       "level": "Expert",
       "keywords": [
         "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
+        "UI",
+        "Graphic Design"
       ]
     },
     {
@@ -233,26 +230,6 @@
       ]
     },
     {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
       "name": "Git",
       "level": "Intermediate",
       "keywords": [
@@ -272,17 +249,6 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
       "name": "React",
       "level": "Intermediate",
       "keywords": [
@@ -290,6 +256,36 @@
         "Frontend",
         "JavaScript Library",
         "UI"
+      ]
+    },
+    {
+      "name": "Turso",
+      "level": "Learning",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "FullStack",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "AstroDB",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "FullStack",
+        "JavaScript",
+        "Server"
       ]
     }
   ],
@@ -314,52 +310,51 @@
   ],
   "references": [
     {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "name": "Manuel Cortés",
+      "reference": "CEO At M&C Games Studio",
+      "contact": "+57 300 4310005"
     }
   ],
   "projects": [
     {
       "name": "Personal Portfolio",
-      "isActive": false,
+      "isActive": true,
       "description": "A personal portfolio website to showcase my projects and skills.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Built with Astro and TailwindCSS",
+        "Includes a Print CV feature"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "https://ianrpo.dev"
     },
     {
-      "name": "Weather App",
+      "name": "Araya Moya Inversiones Website",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "A Landing Web-Site for an investment Company of Chile.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
+        "Built with React and TailwindCSS",
         "Responsive design"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://arayamoyainversiones.vercel.app/"
     },
     {
-      "name": "Task Manager",
+      "name": "University OOP",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "A WebApp with Auth System that allows students to learn Object-Oriented Programming.",
       "highlights": [
-        "Built with Node.js and MongoDB",
+        "Built with HTML, CSS, JavaScript and TailwindCSS Only",
         "User authentication and CRUD operations"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://university-oop.vercel.app/"
     },
     {
-      "name": "E-commerce Site",
+      "name": "Notion Clone",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "An Local app to manage notes and tasks to increase productivity.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Built with Astro, Turso, AstroDB and TailwindCSS",
+        "Offline support"
       ],
-      "url": "https://ecommerce.com"
+      "url": "localhost:4321"
     }
   ]
 }
