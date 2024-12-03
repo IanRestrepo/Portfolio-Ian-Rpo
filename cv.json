@@ -35,7 +35,7 @@
   },
   "work": [
     {
-      "isOnInterview":  false,
+      "isOnInterview":  true,
       "name": "Lionwow",
       "position": "Mid-Sr Front-End Developer",
       "location_type": "Hybrid",
