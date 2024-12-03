@@ -352,7 +352,7 @@
     {
       "name": "Notion Clone",
       "isActive": false,
-      "description": "An Local app to manage notes and tasks to increase productivity.",
+      "description": "An Local app to manage notes and tasks to increase my productivity.",
       "highlights": [
         "Built with Astro, Turso, AstroDB and TailwindCSS",
         "Offline support"
