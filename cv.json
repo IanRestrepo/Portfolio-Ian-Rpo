@@ -339,14 +339,14 @@
       "github": ""
     },
     {
-      "name": "University OOP",
+      "name": "Thiago Agency",
       "isActive": true,
-      "description": "A WebApp with Auth System that allows students to learn Object-Oriented Programming.",
+      "description": "A Website for an Tourism Agency from Chile.",
       "highlights": [
-        "Built with HTML, CSS, JavaScript and TailwindCSS Only",
-        "User authentication and CRUD operations"
+        "Built with Astro, React and TailwindCSS.",
+        "SEO Optimized and Responsive Design"
       ],
-      "url": "https://university-oop.vercel.app/",
+      "url": "https://thiago-agency.vercel.app/",
       "github": ""
     },
     {
