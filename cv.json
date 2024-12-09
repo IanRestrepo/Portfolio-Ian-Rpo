@@ -35,12 +35,12 @@
   },
   "work": [
     {
-      "isOnInterview":  true,
-      "name": "Lionwow",
-      "position": "Mid-Sr Front-End Developer",
+      "isOnInterview":  false,
+      "name": "Growth",
+      "position": "Senior Software Engineer",
       "location_type": "Hybrid",
       "location": "Pereira, Colombia",
-      "url": "https://www.lionwow.co/",
+      "url": "",
       "startDate": "2024-12-05",
       "endDate": null,
       "summary": "Developing and maintaining web applications using JavaScript, Astro, TailwindCSS. Collaborating with the team to implement new features and fix bugs.",
@@ -48,7 +48,7 @@
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
+        "Developed and maintained the main software ( POS ) using JavaScript, Astro, TailwindCSS.",
         "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
         "Participated in code reviews and contributed to improving coding standards within the team."
       ],
