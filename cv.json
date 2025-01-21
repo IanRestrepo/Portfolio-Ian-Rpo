@@ -36,11 +36,11 @@
   "work": [
     {
       "isOnInterview":  true,
-      "name": "Lionwow",
-      "position": "Mid-Sr Front-End Developer",
-      "location_type": "Hybrid",
+      "name": "Chattbooth Co.",
+      "position": "Artistic Web & Graphic Designer ",
+      "location_type": "Remote",
       "location": "Pereira, Colombia",
-      "url": "https://www.lionwow.co/",
+      "url": "https://chattbooth.com/home/",
       "startDate": "2024-12-05",
       "endDate": null,
       "summary": "Designing and developing visually engaging web and graphic content using modern design tools. Collaborating with clients and teams to create user-friendly interfaces and impactful branding materials.",
@@ -48,9 +48,9 @@
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Designing and developing visually engaging web and graphic content using modern design tools.",
+        "Collaborating with clients and teams to create user-friendly interfaces and impactful branding materials.",
+        "Ensuring design consistency and usability while optimizing content for digital platforms."
       ],
       "achievements": [
         "Delivered high-quality graphic content & web development under tight deadlines, exceeding client expectations and earning repeat contracts, with exceptional SEO."
@@ -98,7 +98,7 @@
     },
     {
       "name": "Roblox DevRel",
-      "position": "Community Ambassador",
+      "position": "Community Ambassor",
       "location_type": "Remote",
       "location": "Medellin, Colombia",
       "url": "https://devforum.roblox.com/",
@@ -326,8 +326,7 @@
         "Built with Astro and TailwindCSS",
         "Includes a Print CV feature"
       ],
-      "url": "https://ianrpo.dev",
-      "github": ""
+      "url": "https://ianrpo.dev"
     },
     {
       "name": "MYC Group",
@@ -337,28 +336,27 @@
         "Built Astro, TailwindCSS, Turso, Figma, Shadcn, MagicUI",
         "Responsive design"
       ],
-      "url": "https://arayamoyainversiones.vercel.app/"
+      "url": "https://mycgroup.vercel.app/"
     },
     {
-      "name": "Thiago Agency",
+      "name": "University OOP",
       "isActive": true,
-      "description": "A Website for an Tourism Agency from Chile.",
+      "description": "A WebApp with Auth System that allows students to learn Object-Oriented Programming.",
       "highlights": [
-        "Built with Astro, React and TailwindCSS.",
-        "SEO Optimized and Responsive Design"
+        "Built with HTML, CSS, JavaScript and TailwindCSS Only",
+        "User authentication and CRUD operations"
       ],
-      "url": "https://thiago-agency.vercel.app/",
-      "github": ""
+      "url": "https://university-oop.vercel.app/"
     },
     {
-      "name": "Notion Clone",
-      "isActive": false,
-      "description": "An Local app to manage notes and tasks to increase productivity.",
+      "name": "ASTRO SEO | Util Kit",
+      "isActive": true,
+      "description": "An astro-seo project contribution kit, best SEO Tracker and graph",
       "highlights": [
         "Built with Astro, Turso, SQLite, JavaScript, FlowChart",
         "SEOTools - SEO For Dummies"
       ],
-      "url": "localhost:4321"
+      "url": "https://github.com/IanRestrepo/astro-seo"
     }
   ]
 }
