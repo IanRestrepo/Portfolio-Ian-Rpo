@@ -326,7 +326,8 @@
         "Built with Astro and TailwindCSS",
         "Includes a Print CV feature"
       ],
-      "url": "https://ianrpo.dev"
+      "url": "https://ianrpo.dev",
+       "github": "https://github.com/IanRestrepo/portfolio"
     },
     {
       "name": "MYC Group",
