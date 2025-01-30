@@ -35,22 +35,22 @@
   },
   "work": [
     {
-      "isOnInterview":  true,
-      "name": "Chattbooth Co.",
-      "position": "Artistic Web & Graphic Designer ",
-      "location_type": "Remote",
+      "isOnInterview":  false,
+      "name": "Growth",
+      "position": "Senior Software Engineer",
+      "location_type": "Hybrid",
       "location": "Pereira, Colombia",
-      "url": "https://chattbooth.com/home/",
+      "url": "https://www.growthsoft.co",
       "startDate": "2024-12-05",
       "endDate": null,
-      "summary": "Designing and developing visually engaging web and graphic content using modern design tools. Collaborating with clients and teams to create user-friendly interfaces and impactful branding materials.",
+      "summary": "Developing and maintaining web applications using JavaScript, Astro, TailwindCSS. Collaborating with the team to implement new features and fix bugs.",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Designing and developing visually engaging web and graphic content using modern design tools.",
-        "Collaborating with clients and teams to create user-friendly interfaces and impactful branding materials.",
-        "Ensuring design consistency and usability while optimizing content for digital platforms."
+        "Developed and maintained the main software ( POS ) using JavaScript, Astro, TailwindCSS.",
+        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Participated in code reviews and contributed to improving coding standards within the team."
       ],
       "achievements": [
         "Delivered high-quality graphic content & web development under tight deadlines, exceeding client expectations and earning repeat contracts, with exceptional SEO."
@@ -72,7 +72,7 @@
       "position": "Head Senior Software Engineer",
       "location_type": "Remote",
       "location": "Medellin, Colombia",
-      "url": "https://mycgamestudios.vercel.app/",
+      "url": "https://mcgroup.dev/",
       "startDate": "2022-06-01",
       "endDate": "2024-06-01",
       "summary": "Heading in the development and maintenance of software applications and in-game systems using Luau, Roact, MVC, BridgNet. Collaborating with cross-functional teams to ensure quality and timely delivery of updates for +30M Monthly users.",
@@ -337,7 +337,7 @@
         "Built Astro, TailwindCSS, Turso, Figma, Shadcn, MagicUI",
         "Responsive design"
       ],
-      "url": "https://mycgroup.vercel.app/"
+      "url": "https://www.mcgroup.dev/"
     },
     {
       "name": "University OOP",
